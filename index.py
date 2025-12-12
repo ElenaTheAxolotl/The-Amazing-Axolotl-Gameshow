@@ -40,3 +40,20 @@ else:
     print("\nINCORRECT")
 
 print("\nAxolots usually live for 10-15 years like many other species of salamanders, and they spend their entire lives in the water despite developing lungs to-ERP...to breathe air.")
+
+#question threehehehehehehehe
+print("Moving right along to the third question:\n Which country are ACk-axolotls native to?...AHem...")
+print("A: Mexico")
+print("B: Indonesia")
+print("C: Rwanda")
+print("D: All of the above")
+answer = input("\nYour answer, please (enter the letter): ")
+answerclean = answer.upper ()
+
+if answerclean == "A":
+    print("\nCORRECT!")
+    score += 1
+else:
+    print("\nCORRE-\nINCORRECT")
+
+print("\nMexico is the only native home of axolotls, specifically Lake Xochimilco in Mexico City. The Azetec god of fire, lightning, deformities, and death, Xolotl, is the origin of the name 'axolot', which means 'water dog' in Nahuatl.")
